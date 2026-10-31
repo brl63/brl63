@@ -7,7 +7,7 @@ I build complete, database-driven applications with C#, .NET, ADO.NET and Micros
 ## Featured Projects
 
 - **[DVLD — Driving License Management System](https://github.com/brl63/DVLD_APP)** — Complete license administration system (issuance, renewal, replacements, detained-license release, international permits) built with strict 3-tier architecture, SQL Server and ADO.NET parameterized queries.
-- **[Pharmacy Order Webhook](https://github.com/brl63/GetStoreOrders)** — C# service that receives live e-commerce order webhooks from the Wuilt platform and automatically prints receipts for a pharmacy in Egypt; includes integration with the Wuilt GraphQL API.
+- **Pharmacy Order Webhook** — C# service that receives live e-commerce order webhooks from the Wuilt platform and automatically prints receipts for a pharmacy in Egypt; includes integration with the Wuilt GraphQL API.
 - **[SQL Server Code Generator](https://github.com/brl63/sql-server-code-genreator)** — Developer tool that generates ready-to-use, secure ADO.NET CRUD code with parameterized queries, aggregates and GROUP BY support.
 
 ## Tech I Work With
