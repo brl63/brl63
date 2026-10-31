@@ -17,3 +17,11 @@ C# · .NET · ADO.NET · Microsoft SQL Server · T-SQL · REST APIs · Webhooks 
 ## Contact
 
 LinkedIn: https://www.linkedin.com/in/ahmed-elgaml-97a379397/ · Email: ahmedsobhyelgaml@gmail.com
+
+## Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brl63/brl63/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brl63/brl63/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/brl63/brl63/output/github-contribution-grid-snake.svg">
+</picture>
